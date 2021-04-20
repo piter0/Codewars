@@ -2,7 +2,7 @@
 
 namespace Codewars.Solution._4kyu
 {
-    class SudokuSolutionValidator
+    public class SudokuSolutionValidator
     {
         public static bool ValidateSolution(int[][] board)
         {
