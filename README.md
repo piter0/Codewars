@@ -16,3 +16,5 @@ All are working ones.
 
 [**Message Validator:** ](https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc) [Codewars/Solutions/6kyu/MessageValidator.cs](Codewars/Solutions/6kyu/MessageValidator.cs)
 
+[**String Tops:** ](https://www.codewars.com/kata/59b7571bbf10a48c75000070) [Codewars/Solutions/6kyu/StringTops.cs](Codewars/Solutions/6kyu/StringTops.cs)
+
