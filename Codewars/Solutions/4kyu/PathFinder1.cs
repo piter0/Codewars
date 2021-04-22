@@ -5,7 +5,7 @@ namespace Codewars.Solutions._4kyu
 {
     public class PathFinder1
     {
-        public static bool PathFinder(string maze)
+        public bool PathFinder(string maze)
         {
             var arrLen = (int)Math.Sqrt(maze.Length);
             var array = GetArray(maze, arrLen);

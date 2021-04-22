@@ -5,7 +5,7 @@ namespace Codewars.Solutions._6kyu
 {
     public class MessageValidator
     {
-        public static bool IsAValidMessage(string message)
+        public bool IsAValidMessage(string message)
         {
 
             if (message.Length > 0)

@@ -4,7 +4,7 @@ namespace Codewars.Solutions._4kyu
 {
     public class SudokuSolutionValidator
     {
-        public static bool ValidateSolution(int[][] board)
+        public bool ValidateSolution(int[][] board)
         {
             var sudokuNumbers = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 

@@ -2,7 +2,7 @@
 {
     public class SquareMatrixMultiplication
     {
-        public static int[,] MatrixMultiplication(int[,] a, int[,] b)
+        public int[,] MatrixMultiplication(int[,] a, int[,] b)
         {
             var len = a.GetLength(0);
             var c = new int[len, len];
