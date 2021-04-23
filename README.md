@@ -2,11 +2,13 @@
 My solutions to Codewars' katas.
 
 All are working ones.
-### 4 kyu:
+### 4 kyu
 
 [**Sudoku Solution Validator:** ](https://www.codewars.com/kata/529bf0e9bdf7657179000008) [Codewars/Solutions/4kyu/SudokuSolutionValidator.cs](Codewars/Solutions/4kyu/SudokuSolutionValidator.cs)
 
 [**Path Finder #1: can you reach the exit?:** ](https://www.codewars.com/kata/5765870e190b1472ec0022a2) [Codewars/Solutions/4kyu/PathFinder1.cs](Codewars/Solutions/4kyu/PathFinder1.cs)
+
+[**PFind the unknown digit:** ](https://www.codewars.com/kata/546d15cebed2e10334000ed9) [Codewars/Solutions/4kyu/FindTheUnknownDigit.cs](Codewars/Solutions/4kyu/FindTheUnknownDigit.cs)
 
 ### 5 kyu
 
