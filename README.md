@@ -8,7 +8,7 @@ All are working ones.
 
 [**Path Finder #1: can you reach the exit?:** ](https://www.codewars.com/kata/5765870e190b1472ec0022a2) [Codewars/Solutions/4kyu/PathFinder1.cs](Codewars/Solutions/4kyu/PathFinder1.cs)
 
-[**PFind the unknown digit:** ](https://www.codewars.com/kata/546d15cebed2e10334000ed9) [Codewars/Solutions/4kyu/FindTheUnknownDigit.cs](Codewars/Solutions/4kyu/FindTheUnknownDigit.cs)
+[**Find the unknown digit:** ](https://www.codewars.com/kata/546d15cebed2e10334000ed9) [Codewars/Solutions/4kyu/FindTheUnknownDigit.cs](Codewars/Solutions/4kyu/FindTheUnknownDigit.cs)
 
 ### 5 kyu
 
