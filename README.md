@@ -20,3 +20,5 @@ All are working ones.
 
 [**String Tops:** ](https://www.codewars.com/kata/59b7571bbf10a48c75000070) [Codewars/Solutions/6kyu/StringTops.cs](Codewars/Solutions/6kyu/StringTops.cs)
 
+[**Persistent Bugger:** ](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) [Codewars/Solutions/6kyu/PersistentBugger.cs](Codewars/Solutions/6kyu/PersistentBugger.cs)
+
