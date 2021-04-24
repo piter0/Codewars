@@ -33,7 +33,7 @@ namespace Codewars.Solutions._4kyu
             return missingDigits.Count() > 0 ? missingDigits.First() : -1;
         }
 
-        private static bool ComputeExpression(int leftNumber, int rightNumber, char op, int result, bool leadingZero)
+        private bool ComputeExpression(int leftNumber, int rightNumber, char op, int result, bool leadingZero)
         {
             if (leadingZero) return false;
             if (op == '*') return leftNumber * rightNumber == result;
@@ -42,7 +42,7 @@ namespace Codewars.Solutions._4kyu
             return leftNumber - rightNumber == result;
         }
 
-        private static int GetNumberAsInt(string number, int digit)
+        private int GetNumberAsInt(string number, int digit)
         {
             if (number.StartsWith("-"))
             {
@@ -51,7 +51,7 @@ namespace Codewars.Solutions._4kyu
             return Int32.Parse(string.Join("", number.Select(c => c == '?' ? digit : char.GetNumericValue(c))));
         }
 
-        private static bool HasLeadingZero(string number, int digit)
+        private bool HasLeadingZero(string number, int digit)
         {
             if (number.StartsWith("-"))
             {

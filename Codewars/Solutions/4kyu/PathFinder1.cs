@@ -34,7 +34,7 @@ namespace Codewars.Solutions._4kyu
             return false;
         }
 
-        private static char[,] GetArray(string maze, int arrLength)
+        private char[,] GetArray(string maze, int arrLength)
         {
             var arr = new char[arrLength, arrLength];
 
@@ -49,7 +49,7 @@ namespace Codewars.Solutions._4kyu
             return arr;
         }
 
-        private static IEnumerable<Tuple<int, int, char>> GetNeighbors(int x, int y, int arrLen, char[,] array)
+        private IEnumerable<Tuple<int, int, char>> GetNeighbors(int x, int y, int arrLen, char[,] array)
         {
             if (y == 0)
             {
