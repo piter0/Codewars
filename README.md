@@ -14,6 +14,8 @@ All are working ones.
 
 [**Square Matrix Multiplication:** ](https://www.codewars.com/kata/5263a84ffcadb968b6000513) [Codewars/Solutions/5kyu/SquareMatrixMultiplication.cs](Codewars/Solutions/5kyu/SquareMatrixMultiplication.cs)
 
+[**Directions Reduction:** ](https://www.codewars.com/kata/550f22f4d758534c1100025a) [Codewars/Solutions/5kyu/DirectionsReduction.cs](Codewars/Solutions/5kyu/DirectionsReduction.cs)
+
 ### 6 kyu
 
 [**Message Validator:** ](https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc) [Codewars/Solutions/6kyu/MessageValidator.cs](Codewars/Solutions/6kyu/MessageValidator.cs)
