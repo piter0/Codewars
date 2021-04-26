@@ -24,3 +24,4 @@ All are working ones.
 
 [**Persistent Bugger:** ](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) [Codewars/Solutions/6kyu/PersistentBugger.cs](Codewars/Solutions/6kyu/PersistentBugger.cs)
 
+[**Duplicate Encoder:** ](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) [Codewars/Solutions/6kyu/DuplicateEncoder.cs](Codewars/Solutions/6kyu/DuplicateEncoder.cs)
