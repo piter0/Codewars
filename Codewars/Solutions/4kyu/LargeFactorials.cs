@@ -9,7 +9,7 @@ namespace Codewars.Solutions._4kyu
         {
             var p = 0.0;
 
-            for (int j = 2; j <= n; j++)
+            for (var j = 2; j <= n; j++)
             {
                 p += Math.Log10(j);
             }
@@ -17,7 +17,7 @@ namespace Codewars.Solutions._4kyu
             var d = (int)p + 1;
             var a = new int[d];
 
-            for (int i = 1; i < d; i++)
+            for (var i = 1; i < d; i++)
             {
                 a[i] = 0;
             }
@@ -25,13 +25,13 @@ namespace Codewars.Solutions._4kyu
             a[0] = 1;
             p = 0.0;
 
-            for (int k = 2; k <= n; k++)
+            for (var k = 2; k <= n; k++)
             {
                 var q = 0;
                 p += Math.Log10(k);
                 var z = (int)p + 1;
 
-                for (int l = 0; l < z; l++)
+                for (var l = 0; l < z; l++)
                 {
                     var t = (a[l] * k) + q;
                     q = t / 10;
