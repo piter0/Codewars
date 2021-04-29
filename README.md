@@ -10,6 +10,8 @@ All are working ones.
 
 [**Find the unknown digit:** ](https://www.codewars.com/kata/546d15cebed2e10334000ed9) [Codewars/Solutions/4kyu/FindTheUnknownDigit.cs](Codewars/Solutions/4kyu/FindTheUnknownDigit.cs)
 
+[**Large Factorials:** ](https://www.codewars.com/kata/557f6437bf8dcdd135000010) [Codewars/Solutions/4kyu/LargeFactorials.cs](Codewars/Solutions/4kyu/LargeFactorials.cs)
+
 ### 5 kyu
 
 [**Square Matrix Multiplication:** ](https://www.codewars.com/kata/5263a84ffcadb968b6000513) [Codewars/Solutions/5kyu/SquareMatrixMultiplication.cs](Codewars/Solutions/5kyu/SquareMatrixMultiplication.cs)
