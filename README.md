@@ -22,6 +22,8 @@ All are working ones.
 
 [**Count IP Addresses:** ](https://www.codewars.com/kata/526989a41034285187000de4) [Codewars/Solutions/5kyu/CountIPAddresses.cs](Codewars/Solutions/5kyu/CountIPAddresses.cs)
 
+[**Diophantine Equation:** ](https://www.codewars.com/kata/554f76dca89983cc400000bb) [Codewars/Solutions/5kyu/DiophantineEquation.cs](Codewars/Solutions/5kyu/DiophantineEquation.cs)
+
 ### 6 kyu
 
 [**Message Validator:** ](https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc) [Codewars/Solutions/6kyu/MessageValidator.cs](Codewars/Solutions/6kyu/MessageValidator.cs)
