@@ -37,3 +37,5 @@ All are working ones.
 [**Duplicate Encoder:** ](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) [Codewars/Solutions/6kyu/DuplicateEncoder.cs](Codewars/Solutions/6kyu/DuplicateEncoder.cs)
 
 [**Decipher This:** ](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) [Codewars/Solutions/6kyu/DecipherThis.cs](Codewars/Solutions/6kyu/DecipherThis.cs)
+
+[**Counting Duplicates:** ](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) [Codewars/Solutions/6kyu/CountingDuplicates.cs](Codewars/Solutions/6kyu/CountingDuplicates.cs)
