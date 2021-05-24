@@ -2,7 +2,7 @@
 {
     public class HumanReadableTime
     {
-        public static string GetReadableTime(int seconds)
+        public string GetReadableTime(int seconds)
         {
             var hours = seconds / 3600;
             var minutes = seconds % 3600 > 59 ? seconds % 3600 / 60 : 0;
