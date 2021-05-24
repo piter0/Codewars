@@ -26,6 +26,8 @@ All are working ones.
 
 [**Diophantine Equation:** ](https://www.codewars.com/kata/554f76dca89983cc400000bb) [Codewars/Solutions/5kyu/DiophantineEquation.cs](Codewars/Solutions/5kyu/DiophantineEquation.cs)
 
+[**Human Readable Time:** ](https://www.codewars.com/kata/52685f7382004e774f0001f7) [Codewars/Solutions/5kyu/HumanReadableTime.cs](Codewars/Solutions/5kyu/HumanReadableTime.cs)
+
 ### 6 kyu
 
 [**Message Validator:** ](https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc) [Codewars/Solutions/6kyu/MessageValidator.cs](Codewars/Solutions/6kyu/MessageValidator.cs)
