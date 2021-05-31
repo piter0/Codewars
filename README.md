@@ -14,6 +14,8 @@ All are working ones.
 
 [**Validate Sudoku N x N:** ](https://www.codewars.com/kata/540afbe2dc9f615d5e000425) [Codewars/Solutions/4kyu/ValidateSudokuNxN.cs](Codewars/Solutions/4kyu/ValidateSudokuNxN.cs)
 
+[**Bagels:** ](https://www.codewars.com/kata/54bd6b4c956834c9870001a1) [Codewars/Solutions/4kyu/Bagels.cs](Codewars/Solutions/4kyu/Bagels.cs)
+
 ### 5 kyu
 
 [**Square Matrix Multiplication:** ](https://www.codewars.com/kata/5263a84ffcadb968b6000513) [Codewars/Solutions/5kyu/SquareMatrixMultiplication.cs](Codewars/Solutions/5kyu/SquareMatrixMultiplication.cs)
