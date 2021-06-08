@@ -16,6 +16,8 @@ All are working ones.
 
 [**Bagels:** ](https://www.codewars.com/kata/54bd6b4c956834c9870001a1) [Codewars/Solutions/4kyu/Bagels.cs](Codewars/Solutions/4kyu/Bagels.cs)
 
+[**ParseInt() reloaded:** ](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) [Codewars/Solutions/4kyu/ParseIntReloaded.cs](Codewars/Solutions/4kyu/ParseIntReloaded.cs)
+
 ### 5 kyu
 
 [**Square Matrix Multiplication:** ](https://www.codewars.com/kata/5263a84ffcadb968b6000513) [Codewars/Solutions/5kyu/SquareMatrixMultiplication.cs](Codewars/Solutions/5kyu/SquareMatrixMultiplication.cs)
