@@ -45,3 +45,5 @@ All are working ones.
 [**Decipher This:** ](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) [Codewars/Solutions/6kyu/DecipherThis.cs](Codewars/Solutions/6kyu/DecipherThis.cs)
 
 [**Counting Duplicates:** ](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) [Codewars/Solutions/6kyu/CountingDuplicates.cs](Codewars/Solutions/6kyu/CountingDuplicates.cs)
+
+[**Dubstep:** ](https://www.codewars.com/kata/551dc350bf4e526099000ae5) [Codewars/Solutions/6kyu/Dubstep.cs](Codewars/Solutions/6kyu/Dubstep.cs)
