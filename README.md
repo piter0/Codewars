@@ -47,3 +47,5 @@ All are working ones.
 [**Counting Duplicates:** ](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) [Codewars/Solutions/6kyu/CountingDuplicates.cs](Codewars/Solutions/6kyu/CountingDuplicates.cs)
 
 [**Dubstep:** ](https://www.codewars.com/kata/551dc350bf4e526099000ae5) [Codewars/Solutions/6kyu/Dubstep.cs](Codewars/Solutions/6kyu/Dubstep.cs)
+
+[**Build Tower:** ](https://www.codewars.com/kata/576757b1df89ecf5bd00073b) [Codewars/Solutions/6kyu/BuildTower.cs](Codewars/Solutions/6kyu/BuildTower.cs)
