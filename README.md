@@ -49,3 +49,5 @@ All are working ones.
 [**Dubstep:** ](https://www.codewars.com/kata/551dc350bf4e526099000ae5) [Codewars/Solutions/6kyu/Dubstep.cs](Codewars/Solutions/6kyu/Dubstep.cs)
 
 [**Build Tower:** ](https://www.codewars.com/kata/576757b1df89ecf5bd00073b) [Codewars/Solutions/6kyu/BuildTower.cs](Codewars/Solutions/6kyu/BuildTower.cs)
+
+[**Pyramid Array:** ](https://www.codewars.com/kata/515f51d438015969f7000013) [Codewars/Solutions/6kyu/PyramidArray.cs](Codewars/Solutions/6kyu/PyramidArray.cs)
