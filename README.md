@@ -53,3 +53,5 @@ All are working ones.
 [**Pyramid Array:** ](https://www.codewars.com/kata/515f51d438015969f7000013) [Codewars/Solutions/6kyu/PyramidArray.cs](Codewars/Solutions/6kyu/PyramidArray.cs)
 
 [**Tortoise Racing:** ](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) [Codewars/Solutions/6kyu/TortoiseRacing.cs](Codewars/Solutions/6kyu/TortoiseRacing.cs)
+
+[**Create Phone Number:** ](https://www.codewars.com/kata/525f50e3b73515a6db000b83) [Codewars/Solutions/6kyu/CreatePhoneNumber.cs](Codewars/Solutions/6kyu/CreatePhoneNumber.cs)
